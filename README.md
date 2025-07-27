@@ -1,6 +1,6 @@
 # Monty Hall Game in Rust
 
-This small project implements the classic **Monty Hall** problem. The main goal is to teach the logic behind the game while practicing and learning basic Rust fundamentals.
+This small project implements the classic **Monty Hall** problem. The main goal is to teach the logic behind the game while I practicing and learning basic Rust fundamentals.
 
 ## Requirements
 
@@ -29,4 +29,4 @@ cargo run
 
 This will compile and run the Monty Hall game.
 
-Have fun playing and learning Rust! 🎲
+Have fun playing! 🎲
